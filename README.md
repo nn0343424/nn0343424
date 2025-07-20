@@ -40,6 +40,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nn0343424&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nn0343424&theme=radical" />
+</p>
 
 
 > 🚀 "Strive for progress, not perfection."
