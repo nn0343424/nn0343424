@@ -1,21 +1,26 @@
 <!-- GitHub Profile README for Naveen Kumar -->
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">Final Year Computer Science Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Final Year Computer Science Student | Full-Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nn0343424&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Pursuing B.E. in Computer Science at **Nitte Meenakshi Institute of Technology (NMIT)**  
-- 🔭 Currently working on **full-stack web development projects**  
-- 🌱 Exploring **DevOps, Cloud Computing, and Artificial Intelligence/Machine Learning**  
-- 💡 Passionate about solving problems with **Python, Java, React, and Django**  
+- 🎓 Pursuing **B.E. in Computer Science** at **Nitte Meenakshi Institute of Technology (NMIT)**  
+- 🔭 Working on **full-stack web development projects** to build scalable applications  
+- 🌱 Exploring **DevOps, Cloud Computing, and AI/ML** to broaden my skill set  
+- 💡 Passionate about solving real-world problems using **Python, Java, React, and Django**  
 - 📧 Reach out to me at: **naveenkumar1307@yahoo.com**  
+- ⚡ Fun fact: I love solving **competitive programming challenges** and brewing coffee ☕  
 
 ---
 
@@ -36,6 +41,23 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,tailwind,vue,django,mongodb,mysql,sqlite,git,linux,hadoop,bootstrap,c" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nn0343424&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nn0343424&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nn0343424&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
