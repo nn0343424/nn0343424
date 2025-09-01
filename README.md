@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">Final Year Computer Science Student | Full-Stack Enthusiast | Problem Solver</h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=CSE+Student+at+NMIT+Bangalore;Full+Stack+Developer;Cybersecurity+Researcher;Machine+Learning+Enthusiast" alt="Typing SVG" />
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=CSE+Student+at+NMIT+Bangalore;Full+Stack+Developer;Learning+Enthusiast" alt="Typing SVG" /></h3>
 
 
 <p align="center">
