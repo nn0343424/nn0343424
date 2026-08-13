@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Naveen Kumar -->
 
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">Final Year Computer Science Student | Full-Stack Enthusiast | Problem Solver</h3>
+<h3 align="center">Computer Science | Full-Stack Enthusiast | Problem Solver</h3>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=CSE+Student+at+NMIT+Bangalore;Full+Stack+Developer;Learning+Enthusiast" alt="Typing SVG" /></h3>
 
 
